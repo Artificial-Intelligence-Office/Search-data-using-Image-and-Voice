@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dm24-7",
+
+  "private_key_id": "/* Please use your registered Google Cloud service account API key file */ ",
+  "private_key": "/* Please use your registered Google Cloud service account API key file */ ",
+  "client_email": "1089657098382-compute@developer.gserviceaccount.com",
+  "client_id":"/* Please use your registered Google Cloud service account API key file */ ",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/1089657098382-compute%40developer.gserviceaccount.com"
+}

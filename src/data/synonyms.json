@@ -1,0 +1,595 @@
+[
+    {
+        "id": "1",
+        "synonyms": [
+            "defect",
+            "broken",
+            "damaged",
+            "faulty",
+            "malfunction"
+        ]
+    },
+    {
+        "id": "2",
+        "synonyms": [
+            "air conditioner",
+            "ac",
+            "air cooler",
+            "cooling system",
+            "cooler"
+        ]
+    },
+    {
+        "id": "3",
+        "synonyms": [
+            "electricity",
+            "alternating electric current",
+            "energy",
+            "electrical energy",
+            "electric",
+            "power",
+            "alternating current"
+        ]
+    },
+    {
+        "id": "4",
+        "synonyms": [
+            "electronic",
+            "machine",
+            "device"
+        ]
+    },
+    {
+        "id": "5",
+        "synonyms": [
+            "fire",
+            "inferno",
+            "flame",
+            "burning",
+            "combustion",
+            "flare",
+            "blaze",
+            "ignition",
+            "pyre"
+        ]
+    },
+    {
+        "id": "6",
+        "synonyms": [
+            "equipment",
+            "material",
+            "gear"
+        ]
+    },
+    {
+        "id": "7",
+        "synonyms": [
+            "health",
+            "wellness",
+            "wellbeing",
+            "condition"
+        ]
+    },
+    {
+        "id": "8",
+        "synonyms": [
+            "works",
+            "activity",
+            "job"
+        ]
+    },
+    {
+        "id": "9",
+        "synonyms": [
+            "elevator",
+            "lift"
+        ]
+    },
+    {
+        "id": "10",
+        "synonyms": [
+            "dm",
+            "dubai municipality"
+        ]
+    },
+    {
+        "id": "11",
+        "synonyms": [
+            "security",
+            "safety",
+            "secureness",
+            "protection",
+            "guard"
+        ]
+    },
+    {
+        "id": "12",
+        "synonyms": [
+            "building",
+            "structure",
+            "construction"
+        ]
+    },
+    {
+        "id": "13",
+        "synonyms": [
+            "note",
+            "comment",
+            "remark",
+            "notice",
+            "mention",
+            "observation",
+            "memo"
+        ]
+    },
+    {
+        "id": "14",
+        "synonyms": [
+            "maintenance",
+            "reparation",
+            "repair",
+            "sustainment"
+        ]
+    },
+    {
+        "id": "15",
+        "synonyms": [
+            "utensil",
+            "implement"
+        ]
+    },
+    {
+        "id": "16",
+        "synonyms": [
+            "flu",
+            "influenza",
+            "grippe",
+            "disease",
+            "contagion"
+        ]
+    },
+    {
+        "id": "17",
+        "synonyms": [
+            "pet",
+            "animal",
+            "favorite",
+            "loved",
+            "preferent"
+        ]
+    },
+    {
+        "id": "18",
+        "synonyms": [
+            "pest",
+            "insect",
+            "vermin",
+            "creature",
+            "Alderflie",
+            "Ant",
+            "Antlion",
+            "Archaeognatha",
+            "Barklice",
+            "Bee",
+            "Beetle",
+            "Booklice",
+            "Butterflie",
+            "Bug",
+            "Caddisflie",
+            "Cockroache",
+            "Cricket",
+            "Damselflie",
+            "Dobsonflie",
+            "Dragonflie",
+            "Earwig",
+            "Flea",
+            "Flie",
+            "Grasshopper",
+            "Lacewing",
+            "Lice",
+            "Mantid",
+            "Mayflie",
+            "Moth",
+            "Mantid",
+            "Scorpionflie",
+            "Snakeflie",
+            "Stoneflie",
+            "Strepsipteran",
+            "Termite",
+            "bristletail",
+            "Thrip",
+            "Wasp",
+            "Web-spinner",
+            "Zorapterans"
+        ]
+    },
+    {
+        "id": "19",
+        "synonyms": [
+            "proliferate",
+            "reproduce",
+            "propagate",
+            "grow",
+            "multiply"
+        ]
+    },
+    {
+        "id": "20",
+        "synonyms": [
+            "stray",
+            "wandering",
+            "errant",
+            "outdoor",
+            "lost"
+        ]
+    },
+    {
+        "id": "21",
+        "synonyms": [
+            "Large",
+            "big",
+            "giant",
+            "magnanimous"
+        ]
+    },
+    {
+        "id": "22",
+        "synonyms": [
+            "Establishment",
+            "constitution",
+            "organization",
+            "institution"
+        ]
+    },
+    {
+        "id": "23",
+        "synonyms": [
+            "violation",
+            "infraction",
+            "offense",
+            "infringement",
+            "disorder",
+            "intrusion",
+            "trespass",
+            "misconduct",
+            "wrongdoing",
+            "assault"
+        ]
+    },
+    {
+        "id": "25",
+        "synonyms": [
+            "Beggar",
+            "homeless",
+            "bankrupt"
+        ]
+    },
+    {
+        "id": "26",
+        "synonyms": [
+            "roaming",
+            "vagabond",
+            "vagrant",
+            "errant",
+            "tramp",
+            "maunder"
+        ]
+    },
+    {
+        "id": "27",
+        "synonyms": [
+            "cheat",
+            "scam",
+            "rob",
+            "defraud",
+            "welsh",
+            "deceive",
+            "fake",
+            "falsify",
+            "delude",
+            "misrepresent"
+        ]
+    },
+    {
+        "id": "28",
+        "synonyms": [
+            "description",
+            "specification",
+            "spec",
+            "detailing",
+            "label"
+        ]
+    },
+    {
+        "id": "29",
+        "synonyms": [
+            "Children",
+            "kid",
+            "young",
+            "brat",
+            "baby",
+            "infant"
+        ]
+    },
+    {
+        "id": "30",
+        "synonyms": [
+            "Cleanliness",
+            "neatness",
+            "tidiness"
+        ]
+    },
+    {
+        "id": "31",
+        "synonyms": [
+            "food",
+            "aliment"
+        ]
+    },
+    {
+        "id": "32",
+        "synonyms": [
+            "company",
+            "society",
+            "enterprise"
+        ]
+    },
+    {
+        "id": "33",
+        "synonyms": [
+            "Compliance",
+            "conformation",
+            "requirements",
+            "obligigness",
+            "agreeability"
+        ]
+    },
+    {
+        "id": "34",
+        "synonyms": [
+            "laborer",
+            "worker",
+            "employee",
+            "workman",
+            "operative",
+            "official"
+        ]
+    },
+    {
+        "id": "35",
+        "synonyms": [
+            "camps",
+            "house",
+            "lodging",
+            "living",
+            "shelter",
+            "residance"
+        ]
+    },
+    {
+        "id": "36",
+        "synonyms": [
+            "Decayed",
+            "rotten",
+            "corrupt",
+            "bad"
+        ]
+    },
+    {
+        "id": "37",
+        "synonyms": [
+            "Marine",
+            "sea",
+            "ocean",
+            "nautical",
+            "aquatic"
+        ]
+    },
+    {
+        "id": "38",
+        "synonyms": [
+            "Noise",
+            "dissonance"
+        ]
+    },
+    {
+        "id": "39",
+        "synonyms": [
+            "play",
+            "game"
+        ]
+    },
+    {
+        "id": "40",
+        "synonyms": [
+            "remove",
+            "eliminate",
+            "withdraw"
+        ]
+    },
+    {
+        "id": "41",
+        "synonyms": [
+            "street",
+            "road",
+            "path"
+        ]
+    },
+    {
+        "id": "42",
+        "synonyms": [
+            "illegitimate",
+            "illegal",
+            "outlaw",
+            "prohibited",
+            "forbidden",
+            "illicit",
+            "unlawful"
+        ]
+    },
+    {
+        "id": "43",
+        "synonyms": [
+            "NOC",
+            "No Objection Certificate",
+            "permission"
+        ]
+    },
+    {
+        "id": "44",
+        "synonyms": [
+            "area",
+            "place",
+            "region",
+            "space",
+            "territory",
+            "zone",
+            "field"
+        ]
+    },
+    {
+        "id": "45",
+        "synonyms": [
+            "owner",
+            "proprietor",
+            "holder",
+            "possessor"
+        ]
+    },
+    {
+        "id": "46",
+        "synonyms": [
+            "welfare",
+            "benevolence",
+            "prosperity"
+        ]
+    },
+    {
+        "id": "47",
+        "synonyms": [
+            "roaming seller",
+            "peddler",
+            "hawker",
+            "huckster",
+            "pedlar"
+        ]
+    },
+    {
+        "id": "48",
+        "synonyms": [
+            "planning",
+            "design"
+        ]
+    },
+    {
+        "id": "49",
+        "synonyms": [
+            "issue",
+            "problem"
+        ]
+    },
+    {
+        "id": "50",
+        "synonyms": [
+            "Health premise",
+            "clinic",
+            "nursing home",
+            "hospital",
+            "health center"
+        ]
+    },
+    {
+        "id": "51",
+        "synonyms": [
+            "health supplements",
+            "pharmaceutical",
+            "drug",
+            "drench",
+            "medicament"
+        ]
+    },
+    {
+        "id": "52",
+        "synonyms": [
+            "sight",
+            "vision",
+            "view",
+            "look"
+        ]
+    },
+    {
+        "id": "53",
+        "synonyms": [
+            "collapse",
+            "break down",
+            "fall"
+        ]
+    },
+    {
+        "id": "54",
+        "synonyms": [
+            "cat",
+            "animal",
+            "pet",
+            "kitten",
+            "puss",
+            "pussy"
+        ]
+    },
+    {
+        "id": "55",
+        "synonyms": [
+            "waste",
+            "garbage",
+            "litter",
+            "lefts",
+            "scraps",
+            "trash",
+            "rubbish"
+        ]
+    },
+    {
+        "id": "56",
+        "synonyms": [
+            "dog",
+            "animal",
+            "pet",
+            "canine"
+        ]
+    },
+    {
+        "id": "57",
+        "synonyms": [
+            "water",
+            "liquid",
+            "pipe",
+            "h2o",
+            "flake",
+            "wet",
+            "hose"
+        ]
+    },
+    {
+        "id": "58",
+        "synonyms": [
+            "park",
+            "garden",
+            "tree"
+        ]
+    },
+    {
+        "id": "59",
+        "synonyms": [
+            "rainwater",
+            "rain",
+            "water"
+        ]
+    },
+    {
+        "id": "60",
+        "synonyms": [
+            "permission",
+            "license"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>SmartSearch</title>
+</head>
+<body>
+  <!-- <audio id="testClip" name="testClip" controls="" preload="auto" src="/examples/audio/test.flac"></audio> -->
+  <form name="searchForm" action="/search" method="POST">
+    <input type="text" name="searchRequest" id="textInput" style="display: inline">
+    <input type="hidden" name="requestFrom" value="web">
+    <select name="mediaType" id="typeSelect">
+      <option value="text" selected>Text</option>
+      <option value="audio">Audio</option>
+      <option value="photo">Photo</option>
+    </select>
+    <br>
+    <input type="submit" value="Search">
+  </form>
+  
+</body>
+</html>

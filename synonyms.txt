@@ -1,0 +1,59 @@
+defect,broken,damaged,faulty,malfunction
+air conditioner,ac,air cooler,cooling system,cooler
+electricity,alternating electric current,energy,electrical energy,electric,power,alternating current
+electronic,machine,device
+fire,inferno,flame,burning,combustion,flare,blaze,ignition,pyre
+equipment,material,gear
+health,wellness,wellbeing,condition
+works,activity,job
+elevator,lift
+dm,dubai municipality
+security,safety,secureness,protection,guard
+building,structure,construction
+note,comment,remark,notice,mention,observation,memo
+maintenance,reparation,repair,sustainment
+utensil,implement
+flu,influenza,grippe,disease,contagion
+pet,animal,favorite,loved,preferent
+pest,insect,vermin,creature,alderflie,ant,antlion,archaeognatha,barklice,bee,beetle,booklice,butterflie,bug,caddisflie,cockroache,cricket,damselflie,dobsonflie,dragonflie,earwig,flea,flie,grasshopper,lacewing,lice,mantid,mayflie,moth,mantid,scorpionflie,snakeflie,stoneflie,strepsipteran,termite,bristletail,thrip,wasp,web-spinner,zorapterans
+proliferate,reproduce,propagate,grow,multiply
+stray,wandering,errant,outdoor,lost
+large,big,giant,magnanimous
+establishment,constitution,organization,institution
+violation,infraction,offense,infringement,disorder,intrusion,trespass,misconduct,wrongdoing,assault
+beggar,homeless,bankrupt
+roaming,vagabond,vagrant,errant,tramp,maunder
+cheat,scam,rob,defraud,welsh,deceive,fake,falsify,delude,misrepresent
+description,specification,spec,detailing,label
+children,kid,young,brat,baby,infant
+cleanliness,neatness,tidiness
+food,aliment
+company,society,enterprise
+compliance,conformation,requirements,obligigness,agreeability
+laborer,worker,employee,workman,operative,official
+camps,house,lodging,living,shelter,residance
+decayed,rotten,corrupt,bad
+marine,sea,ocean,nautical,aquatic
+noise,dissonance
+play,game
+remove,eliminate,withdraw
+street,road,path
+illegitimate,illegal,outlaw,prohibited,forbidden,illicit,unlawful
+noc,no objection certificate,permission
+area,place,region,space,territory,zone,field
+owner,proprietor,holder,possessor
+welfare,benevolence,prosperity
+roaming seller,peddler,hawker,huckster,pedlar
+planning,design
+issue,problem
+health premise,clinic,nursing home,hospital,health center
+health supplements,pharmaceutical,drug,drench,medicament
+sight,vision,view,look
+collapse,break down,fall
+cat,animal,pet,kitten,puss,pussy
+waste,garbage,litter,lefts,scraps,trash,rubbish
+dog,animal,pet,canine
+water,liquid,pipe,h2o,flake,wet,hose
+park,garden,tree
+rainwater,rain,water
+permission,license
