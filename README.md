@@ -1,4 +1,4 @@
-# ImageRecognitionAI
+# Search Engine to search for Dubai Municipality services using Image / Voice recognition
 
 A Search Engine application to find matches for  Dubai Municipality services using Image and Voice.
 
