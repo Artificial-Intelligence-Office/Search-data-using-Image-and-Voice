@@ -1,6 +1,6 @@
 # Search Engine to search for Dubai Municipality services using Image / Voice recognition
 
-A Search Engine application to find matches for  Dubai Municipality services using Image and Voice.
+![Dubai Municipality Logo](https://github.com/dubaimunicipalityitd/ImageRecognitionAI/blob/main/dmLogo.png)
 
 Setting up DM Search Engine on Windows :
 
