@@ -1,6 +1,5 @@
 # Search Engine to search for Dubai Municipality services using Image / Voice recognition
 
-# Table of Contents
  
 ![Dubai Municipality Logo](https://github.com/dubaimunicipalityitd/ImageRecognitionAI/blob/main/dmLogo.png)
 
