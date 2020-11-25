@@ -6,7 +6,7 @@
 
 ## About the project
 
-This project contains a search engine to find Dubai municipality services data based on Image and Voice to text matches from Information Technology department, Dubai Municipality
+This project contains a search engine to find Dubai municipality services data based on Image and Voice recognition from Information Technology department, Dubai Municipality
 
 
 ## Functionality
