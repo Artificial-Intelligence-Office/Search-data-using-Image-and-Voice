@@ -11,12 +11,12 @@ This project contains a search engine to find Dubai municipality services data b
 
 ## Functionality
 
-The functionality consists of 4 major components 
+The Image or audio data processing takes place in 3 main steps
 
-- Label Extraction from images and text recognition from Voice using Google cloud vision/speech to text APIs
+- Labels Detection from images and text recognition from Voice using Google cloud vision/speech to text APIs
 - Keywords Extraction using Rapid Automatic Keyword Extraction algorithm
-- Fuzzy searches using Elastic Search component
-- return of matched Dubai Municipality Services
+- Fuzzy searches using Elastic Search component to retrieve matched services.
+
 
 
 The base 64 encoded image data is sent to Google Vision API for annotation and feature detection. Using Machine learning models, the images are classified and labels identifiying objects, locations etc in the image data are returned in the response body.
