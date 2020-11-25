@@ -21,7 +21,7 @@ var detectLabels = function () {
 
 						// Creates a client
 						client = new _vision2.default.ImageAnnotatorClient({
-							keyFilename: "./proxym-dm24-7-4e607964c153.json"
+							keyFilename: "./dm24-7-4e607964c153.json"
 						});
 						photoName = new Date().toISOString().replace(/T/, " ").replace(/\..+/, "").replace(/\:/g, "_").replace(" ", "_");
 						_context.prev = 3;
