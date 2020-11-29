@@ -6,7 +6,7 @@
 
 ## About the project
 
-This project contains a search engine to find Dubai municipality services data based on Image and Voice recognition presented from Information Technology department, Dubai Municipality.
+This project contains a search engine application to find the Dubai municipality services data based on Image and Voice recognition presented from Information Technology Department, Dubai Municipality. It exposes a REST web service API and is actively used by the 'Dubai Municipality' Mobile app available in Apple store and Google play respectively.  
 
 
 ## Functionality
