@@ -6,7 +6,7 @@
 
 ## About the project
 
-This project contains a Search Engine application that retrieves information on Dubai Municipality services using Image and Speech analysis based on machine learning.  To faciliate its usage, it exposes a simplified REST web service API that is consumed by the 'Dubai Municipality' Mobile app available in Apple Store and Google Play respectively. The project is presented from Information Technology Department, Dubai Municipality.
+This project contains a Search Engine application that retrieves information on Dubai Municipality services using Image and Speech analysis based on machine learning.  To faciliate its usage, it exposes a simplified REST web service API that is actively consumed by the 'Dubai Municipality' Mobile app available in Apple Store and Google Play respectively. The project is presented from Information Technology Department, Dubai Municipality.
 
 
 ## Functionality
