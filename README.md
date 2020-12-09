@@ -13,16 +13,16 @@ This project contains a Search Engine application that retrieves information on 
 
 The Image and audio data processing takes place in 3 main sequences in order to return successful search hits of services data.
 
-- Labels Detection in the captured images using Google's Cloud Vision API. Voice recognition from audio data using Google's speech to text API. 
-- Keywords Extraction from the response text of above API calls using the Rapid Automatic Keyword Extraction algorithm.
-- Fuzzy searches with the help of an Elastic Search component to retrieve matched services information for the user.
+- Labels detection in the captured images using Google's Cloud Vision API. Voice recognition from audio data using Google's speech to text API. 
+- Keywords extraction from the response text of above API calls using the Rapid Automatic Keyword Extraction algorithm.
+- Fuzzy searches with the help of an 'Elastic Search' component to retrieve matched services information for the user.
 
 
-The base 64 encoded image data from the client app is sent to Google Vision API for annotation and feature detection. Using Machine learning models, the images are classified and labels identifiying objects, locations etc in the image data are returned in the response body.
+The base 64 encoded image data from the client app is sent to Google Vision API for annotation and feature detection. Using machine learning models, the images are classified and labels identifiying objects, locations etc in the image data are returned in the response body.
 
-Similarly, the Audio files are sent to Google's Voice to Text API for speech recognition. The API uses machine learning models to transcribe the audio data to text in real time. The request to the API will contain the WAV file and employs Google's 'command_and_search' machine model to transcribe short voice speeches to text. The response will contain the transcribed words.
+Similarly, the audio files are sent to Google's voice to text API for speech recognition. The API uses machine learning models to transcribe the audio data to text in real time. The request to the API will contain the WAV file and employs Google's 'command_and_search' machine model to transcribe short voice speeches to text. The response will contain the transcribed words.
 
-As next step, The images labels or Voice texts are run through a keyword extraction module as part of Natural Language processing. The code operates with 'Retext-Keywords' javascript plugins that uses the RAPID Automatic Keyword Extraction algorithm to extract Candidate Keywords and phrases.
+As next step, The images labels or voice texts are run through a keyword extraction module as part of Natural Language processing. The code operates with 'Retext-Keywords' javascript plugins that uses the RAPID Automatic Keyword Extraction algorithm to extract candidate keywords and phrases.
 
 The services metadata is stored within the Elastic Search program. It performs fast searches using indexing and custom text analysers. The keywords are sent to Elastic search as query strings. They undergo a process of tokenization and normalization. Services details that match the normalized keywords are returned as successful hits in the response.
 
